@@ -1,0 +1,14 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/trashcan",
+	"textures": {
+		"0": "custom/mainstreetusa/trashgreen",
+		"2": "block/bone_block_side",
+		"3": "custom/mainstreetusa/mstrashcan",
+		"4": "block/bone_block_side",
+		"5": "custom/mainstreetusa/mstrashcan",
+		"6": "custom/mainstreetusa/mstrashsides",
+		"7": "custom/mainstreetusa/mstrashsides",
+		"particle": "block/bone_block_side"
+  }
+}

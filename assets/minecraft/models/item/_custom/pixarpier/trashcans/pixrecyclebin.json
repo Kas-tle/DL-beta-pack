@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/pixarrecyclebin",
+  "textures": {
+		"0": "block/light_blue_concrete",
+		"2": "custom/pixarpier/pixarrecyclelogo",
+		"3": "block/yellow_concrete",
+		"4": "custom/pixarpier/pixarcanlogo",
+		"5": "block/light_blue_concrete",
+		"6": "custom/pixarpier/pixarcanlogo",
+		"7": "custom/parent/blank",
+		"8": "custom/parent/blank",
+		"particle": "block/light_blue_concrete"
+  }
+}

@@ -1,0 +1,64 @@
+{
+	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+	"ambientocclusion": false,
+	"textures": {
+		"1": "custom/entranceplaza/goawaygreen",
+		"particle": "custom/entranceplaza/goawaygreen"
+	},
+	"elements": [
+		{
+			"from": [7.5, 0, 8],
+			"to": [8.5, 16.5, 9],
+			"faces": {
+				"north": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"east": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"south": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"west": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"up": {"uv": [0.016, 0.016, 0.984, 0.984], "texture": "#1"},
+				"down": {"uv": [0.016, 0.016, 0.984, 0.984], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.7, 16.5, 8.2],
+			"to": [8.3, 17, 8.8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 16.75, 8.5]},
+			"faces": {
+				"north": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"east": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"south": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"west": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"}
+			}
+		},
+		{
+			"from": [7.6, 17, 8.1],
+			"to": [8.4, 17.8, 8.9],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 17.4, 8.5]},
+			"faces": {
+				"north": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"east": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"south": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"west": {"uv": [0.016, 0.016, 0.984, 15.984], "texture": "#1"},
+				"up": {"uv": [0.016, 0.016, 0.984, 0.984], "texture": "#1"},
+				"down": {"uv": [0.016, 0.016, 0.984, 0.984], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"ground": {
+			"translation": [0, 4, 0]
+		},
+		"gui": {
+			"translation": [0, -0.75, 0],
+			"scale": [0.89, 0.89, 0.89]
+		},
+		"fixed": {
+			"translation": [0, -0.75, -1]
+		}
+	},
+	"groups": [
+		{
+			"name": "iron_bars_post",
+			"children": [0, 1, 2]
+		}
+	]
+}

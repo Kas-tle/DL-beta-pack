@@ -1,0 +1,69 @@
+{
+	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+	"textures": {
+		"0": "block/grass",
+		"particle": "block/grass"
+	},
+	"elements": [
+		{
+			"from": [7.82322, -0.06, -0.5],
+			"to": [7.82322, 16.94, 16.5],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [-0.67678, -0.06, 8],
+			"to": [16.32322, 16.94, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [1.32322, -0.06, 11],
+			"to": [14.82322, 13.94, 11],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "x", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [1.32322, -0.06, 5],
+			"to": [14.82322, 13.94, 5],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0},
+				"south": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [10.82322, -0.06, 1],
+			"to": [10.82322, 13.94, 14.5],
+			"shade": false,
+			"rotation": {"angle": -22.5, "axis": "z", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0", "tintindex": 0}
+			}
+		},
+		{
+			"from": [4.82322, -0.06, 1],
+			"to": [4.82322, 13.94, 14.5],
+			"shade": false,
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [7.82322, 8.44, 8]},
+			"faces": {
+				"east": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0},
+				"west": {"uv": [16, 0, 0, 16], "texture": "#0", "tintindex": 0}
+			}
+		}
+	]
+}

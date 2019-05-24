@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "block/brown_concrete",
+		"2": "block/brown_concrete",
+		"4": "block/brown_concrete",
+		"5": "custom/downtowndisney/ddrecyclelabel",
+		"6": "custom/downtowndisney/ddrecyclebin",
+		"7": "custom/downtowndisney/ddrecyclebin",
+		"8": "custom/parent/blank",
+		"9": "custom/parent/blank",
+		"particle": "block/brown_concrete"
+  }
+}

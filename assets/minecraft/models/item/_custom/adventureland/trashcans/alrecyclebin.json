@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "custom/adventureland/maroon",
+		"2": "block/cyan_concrete",
+		"4": "block/cyan_concrete",
+		"5": "custom/adventureland/alrecyclelabel",
+		"6": "custom/adventureland/alrecyclebin",
+		"7": "custom/adventureland/alrecyclebin",
+		"8": "custom/adventureland/altrashcansides",
+		"9": "custom/adventureland/altrashcansides",
+		"particle": "block/cyan_concrete"
+  }
+}

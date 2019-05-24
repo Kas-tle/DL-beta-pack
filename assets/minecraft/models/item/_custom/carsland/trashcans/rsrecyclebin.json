@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "block/gray_concrete",
+		"2": "custom/tomorrowland/silver",
+		"4": "block/gray_concrete",
+		"5": "custom/carsland/rsrecyclelabel",
+		"6": "custom/carsland/rstrashcan",
+		"7": "custom/carsland/rstrashcan",
+		"8": "custom/parent/blank",
+		"9": "custom/parent/blank",
+		"particle": "block/gray_concrete"
+  }
+}

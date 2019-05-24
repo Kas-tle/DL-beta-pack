@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "custom/mainstreetusa/trashgreen",
+		"2": "block/bone_block_side",
+		"4": "block/bone_block_side",
+		"5": "custom/mainstreetusa/msrecyclelabel",
+		"6": "custom/mainstreetusa/msrecyclebin",
+		"7": "custom/mainstreetusa/msrecyclebin",
+		"8": "custom/mainstreetusa/mstrashsides",
+		"9": "custom/mainstreetusa/mstrashsides",
+		"particle": "block/bone_block_side"
+  }
+}

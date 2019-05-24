@@ -1,0 +1,14 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/trashcan",
+  "textures": {
+		"0": "block/red_concrete",
+		"2": "block/gray_concrete",
+		"3": "custom/pixarpier/incredicoastertrash",
+		"4": "block/red_concrete",
+		"5": "custom/pixarpier/incredicoastertrash",
+		"6": "custom/parent/blank",
+		"7": "custom/parent/blank",
+		"particle": "block/red_concrete"
+  }
+}

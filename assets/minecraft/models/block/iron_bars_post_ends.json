@@ -1,0 +1,16 @@
+{
+	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+	"textures": {
+		"0": "custom/entranceplaza/goawaygreen",
+		"particle": "custom/entranceplaza/goawaygreen"
+	},
+	"elements": [
+		{
+			"from": [7.75, 1, 7.75],
+			"to": [8.25, 1, 8.25],
+			"faces": {
+				"down": {"uv": [0, 0, 0.5, 0.5], "texture": "#0"}
+			}
+		}
+	]
+}

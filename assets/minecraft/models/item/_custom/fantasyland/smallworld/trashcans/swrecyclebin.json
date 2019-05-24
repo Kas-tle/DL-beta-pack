@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "block/light_blue_concrete",
+		"2": "block/snow",
+		"4": "block/snow",
+		"5": "custom/fantasyland/swrecyclelabel",
+		"6": "custom/fantasyland/swrecyclebin",
+		"7": "custom/fantasyland/swrecyclebin",
+		"8": "custom/fantasyland/swtrashdies",
+		"9": "custom/fantasyland/swtrashdies",
+		"particle": "block/snow"
+  }
+}

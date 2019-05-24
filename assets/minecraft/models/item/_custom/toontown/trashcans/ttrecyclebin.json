@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "block/green_concrete",
+		"2": "custom/entranceplaza/goawaygreen",
+		"4": "custom/entranceplaza/goawaygreen",
+		"5": "custom/toontown/ttrecyclelabel",
+		"6": "custom/toontown/ttrecyclebin",
+		"7": "custom/toontown/ttrecyclebin",
+		"8": "custom/parent/blank",
+		"9": "custom/parent/blank",
+		"particle": "custom/entranceplaza/goawaygreen"
+  }
+}

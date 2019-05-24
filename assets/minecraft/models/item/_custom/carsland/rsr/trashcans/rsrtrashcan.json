@@ -1,0 +1,14 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/trashcan",
+	"textures": {
+		"0": "block/stripped_oak_log",
+		"2": "block/stripped_oak_log",
+		"3": "custom/carsland/rsrtrashcan",
+		"4": "block/stripped_oak_log",
+		"5": "custom/carsland/rsrtrashcan",
+		"6": "custom/parent/blank",
+		"7": "custom/parent/blank",
+		"particle": "block/stripped_oak_log"
+  }
+}

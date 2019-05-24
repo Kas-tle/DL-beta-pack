@@ -1,0 +1,236 @@
+{
+	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+	"textures": {
+		"0": "custom/flowers/poppy/poppy",
+		"particle": "custom/flowers/poppy/poppy"
+	},
+	"elements": [
+		{
+			"from": [8, 0, 3],
+			"to": [8, 10, 13],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3, 0, 8],
+			"to": [13, 10, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.84, -0.04, 1.46],
+			"to": [3.84, 4.76, 6.26],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.56, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [1.44, -0.04, 3.86],
+			"to": [6.24, 4.76, 3.86],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.56, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.84, -0.04, 0.96],
+			"to": [11.84, 4.76, 5.76],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.56, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.44, -0.04, 3.36],
+			"to": [14.24, 4.76, 3.36],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.56, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.42, -0.16, 10],
+			"to": [11.42, 5.04, 15.2],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.44, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8.82, -0.16, 12.6],
+			"to": [14.02, 5.04, 12.6],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.44, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.32, -0.16, 9.2],
+			"to": [3.32, 5.04, 14.4],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.44, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.72, -0.16, 11.8],
+			"to": [5.92, 5.04, 11.8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.44, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [7.6, -0.42, 11.3],
+			"to": [7.6, 6.98, 18.7],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.78, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [3.9, -0.42, 15],
+			"to": [11.3, 6.98, 15],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.78, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [15.18, -0.02, 4.6],
+			"to": [15.18, 7.38, 12],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.78, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11.48, -0.02, 8.3],
+			"to": [18.88, 7.38, 8.3],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.78, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [8, -0.08, -2.9],
+			"to": [8, 7.52, 4.7],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.72, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4.2, -0.08, 0.9],
+			"to": [11.8, 7.52, 0.9],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 5.72, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [0.78, -0.06, 4.9],
+			"to": [0.78, 6.14, 11.1],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.14, 8]},
+			"faces": {
+				"east": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [-2.32, -0.06, 8],
+			"to": [3.88, 6.14, 8],
+			"shade": false,
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6.14, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "flower1",
+			"shade": false,
+			"children": [0, 1]
+		},
+		{
+			"name": "flower8",
+			"shade": false,
+			"children": [2, 3]
+		},
+		{
+			"name": "flower9",
+			"shade": false,
+			"children": [4, 5]
+		},
+		{
+			"name": "flower6",
+			"shade": false,
+			"children": [6, 7]
+		},
+		{
+			"name": "flower7",
+			"shade": false,
+			"children": [8, 9]
+		},
+		{
+			"name": "flower5",
+			"shade": false,
+			"children": [10, 11]
+		},
+		{
+			"name": "flower4",
+			"shade": false,
+			"children": [12, 13]
+		},
+		{
+			"name": "flower3",
+			"shade": false,
+			"children": [14, 15]
+		},
+		{
+			"name": "flower2",
+			"shade": false,
+			"children": [16, 17]
+		}
+	]
+}

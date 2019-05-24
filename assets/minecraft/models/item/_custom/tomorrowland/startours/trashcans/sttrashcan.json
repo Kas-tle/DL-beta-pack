@@ -1,0 +1,14 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/trashcan",
+	"textures": {
+		"0": "block/white_concrete",
+		"2": "custom/tomorrowland/silver",
+		"3": "custom/tomorrowland/sttrashcan",
+		"4": "custom/tomorrowland/silver",
+		"5": "custom/tomorrowland/sttrashcan",
+		"6": "custom/parent/blank",
+		"7": "custom/parent/blank",
+		"particle": "custom/tomorrowland/silver"
+  }
+}

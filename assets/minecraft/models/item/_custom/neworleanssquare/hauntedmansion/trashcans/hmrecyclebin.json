@@ -1,0 +1,15 @@
+{
+	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
+  "parent": "item/_custom/parents/recyclebin",
+	"textures": {
+		"0": "custom/entranceplaza/goawaygreen",
+		"2": "custom/entranceplaza/goawaygreen",
+		"4": "custom/entranceplaza/goawaygreen",
+		"5": "custom/neworleanssquare/nsqrecyclelabel",
+		"6": "custom/neworleanssquare/hmrecyclebin",
+		"7": "custom/neworleanssquare/hmrecyclebin",
+		"8": "custom/neworleanssquare/hmtrashcansides",
+		"9": "custom/neworleanssquare/hmtrashcansides",
+		"particle": "custom/entranceplaza/goawaygreen"
+  }
+}
