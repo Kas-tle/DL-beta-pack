@@ -1,0 +1,25 @@
+{
+	"name": "Disney-Pack-8-bit",
+	"version": "059",
+	"description": "Minecraft resource pack for the Kinevo Disneyland Project. See the beta server at mcdisney.land or join us on Discord at https://discord.gg/SUqKBRR.",
+	"keywords": [
+		"server",
+		"resource",
+		"minecraft",
+		"kinevo",
+		"pack"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Kas-tle/Disney-Pack-8-bit.git"
+	},
+	"scripts": {
+		"release": "release-it"
+	},
+	"homepage": "https://github.com/Kas-tle/Disney-Pack-8-bit#readme",
+	"bugs": "https://github.com/Kas-tle/Disney-Pack-8-bit/issues",
+	"author": {
+		"email": "models@kastle.tk",
+		"name": "Kastle"
+	}
+}
