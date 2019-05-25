@@ -4,6 +4,7 @@
   },
   "github": {
     "release": true,
+    "assets": ["*.zip"],
     "releaseName": "Resource Pack Iteration %s",
     "tokenRef": "GITHUB_TOKEN"
   }
