@@ -2,7 +2,7 @@
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
 		"0": "custom/entranceplaza/goawaygreen",
-		"1": "block/stone_slab_top",
+		"1": "block/smooth_stone",
 		"particle": "custom/entranceplaza/goawaygreen"
 	},
 	"elements": [
