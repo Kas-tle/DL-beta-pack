@@ -1,0 +1,16 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "block/carved_pumpkin"
+	},
+	"overrides": [
+		{ "predicate": {"custom_model_data": 1}, "model": "item/_custom/accessories/hats/classic"},
+		{ "predicate": {"custom_model_data": 2}, "model": "item/_custom/accessories/hats/stitch"},
+		{ "predicate": {"custom_model_data": 3}, "model": "item/_custom/accessories/hats/oswald"},
+		{ "predicate": {"custom_model_data": 4}, "model": "item/_custom/accessories/hats/walle"},
+		{ "predicate": {"custom_model_data": 5}, "model": "item/_custom/accessories/hats/eve"},
+		{ "predicate": {"custom_model_data": 6}, "model": "item/_custom/accessories/hats/jackhat"},
+		{ "predicate": {"custom_model_data": 7}, "model": "item/_custom/accessories/hats/tophat"},
+		{ "predicate": {"custom_model_data": 8}, "model": "item/_custom/accessories/hats/birthday"}
+	]
+}
