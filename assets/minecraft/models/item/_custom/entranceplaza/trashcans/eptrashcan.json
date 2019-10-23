@@ -4,9 +4,9 @@
 	"textures": {
 		"0": "block/bone_block_side",
 		"2": "block/stripped_acacia_log",
-		"3": "custom/entranceplaza/disneylogo",
+		"3": "gui/title/mojang",
 		"4": "block/bone_block_side",
-		"5": "custom/entranceplaza/disneylogo",
+		"5": "gui/title/mojang",
 		"6": "custom/parent/blank",
 		"7": "custom/parent/blank",
 		"particle": "block/bone_block_side"
