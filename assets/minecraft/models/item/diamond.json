@@ -77,6 +77,7 @@
 		{"predicate": {"custom_model_data": 71}, "model": "item/_custom/entranceplaza/maps/dcamap"},
 		{"predicate": {"custom_model_data": 72}, "model": "item/_custom/buenavistastreet/seating/bench"},
 		{"predicate": {"custom_model_data": 73}, "model": "item/_custom/accessories/items/starwarslamp"},
-		{"predicate": {"custom_model_data": 74}, "model": "item/_custom/fantasyland/castle/castlebanner"}
+		{"predicate": {"custom_model_data": 74}, "model": "item/_custom/fantasyland/castle/castlebanner"},
+    {"predicate": {"custom_model_data": 3},"model": "item/_custom/accessories/items/babyyoda"}
 	]
 }
