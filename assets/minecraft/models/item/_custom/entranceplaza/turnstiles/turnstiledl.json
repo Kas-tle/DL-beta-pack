@@ -2,14 +2,14 @@
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"ambientocclusion": false,
 	"textures": {
-		"1": "block/polished_andesite",
-		"2": "custom/entranceplaza/goawaygreen",
-		"4": "block/white_concrete",
-		"6": "block/light_gray_concrete",
-		"7": "block/gray_concrete",
-		"8": "custom/entranceplaza/lightred",
-		"9": "custom/entranceplaza/dlmapfull",
-		"particle": "block/polished_andesite"
+		"1": "minecraft:block/polished_andesite",
+		"2": "minecraft:custom/entranceplaza/goawaygreen",
+		"4": "minecraft:block/white_concrete",
+		"6": "minecraft:block/light_gray_concrete",
+		"7": "minecraft:block/gray_concrete",
+		"8": "minecraft:custom/entranceplaza/lightred",
+		"9": "minecraft:custom/entranceplaza/dlmapfull",
+		"particle": "minecraft:block/polished_andesite"
 	},
 	"elements": [
 		{
