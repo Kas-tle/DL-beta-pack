@@ -1,11 +1,11 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"2": "block/smooth_stone",
-		"3": "block/yellow_concrete_powder",
-		"4": "block/yellow_concrete",
-		"5": "block/white_stained_glass",
-		"particle": "block/yellow_concrete_powder"
+		"2": "minecraft:block/smooth_stone",
+		"3": "minecraft:block/yellow_concrete_powder",
+		"4": "minecraft:block/yellow_concrete",
+		"5": "minecraft:block/white_stained_glass",
+		"particle": "minecraft:block/yellow_concrete_powder"
 	},
 	"elements": [
 		{
