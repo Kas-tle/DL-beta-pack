@@ -1,16 +1,16 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/black_concrete",
-		"2": "custom/accessories/hats/walleear1",
-		"3": "custom/accessories/hats/walleear2",
-		"4": "block/gray_concrete",
-		"5": "block/light_gray_concrete",
-		"6": "block/yellow_concrete",
-		"7": "custom/accessories/hats/wallelogo",
-		"8": "block/blue_stained_glass",
-		"9": "block/snow",
-		"particle": "custom/accessories/hats/walleear1"
+		"1": "minecraft:block/black_concrete",
+		"2": "minecraft:custom/accessories/hats/walleear1",
+		"3": "minecraft:custom/accessories/hats/walleear2",
+		"4": "minecraft:block/gray_concrete",
+		"5": "minecraft:block/light_gray_concrete",
+		"6": "minecraft:block/yellow_concrete",
+		"7": "minecraft:custom/accessories/hats/wallelogo",
+		"8": "minecraft:block/blue_stained_glass",
+		"9": "minecraft:block/snow",
+		"particle": "minecraft:custom/accessories/hats/walleear1"
 	},
 	"elements": [
 		{
