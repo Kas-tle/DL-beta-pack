@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/trashcan",
+  "parent": "minecraft:item/_custom/parents/trashcan",
 	"textures": {
-		"0": "custom/buenavistastreet/darkturquoise",
-		"2": "custom/buenavistastreet/darkerturquoise",
-		"3": "custom/buenavistastreet/bstrashcan",
-		"4": "custom/buenavistastreet/darkturquoise",
-		"5": "custom/buenavistastreet/bstrashcan",
-		"6": "custom/parent/blank",
-		"7": "custom/parent/blank",
-		"particle": "custom/buenavistastreet/darkturquoise"
+		"0": "minecraft:custom/buenavistastreet/darkturquoise",
+		"2": "minecraft:custom/buenavistastreet/darkerturquoise",
+		"3": "minecraft:custom/buenavistastreet/bstrashcan",
+		"4": "minecraft:custom/buenavistastreet/darkturquoise",
+		"5": "minecraft:custom/buenavistastreet/bstrashcan",
+		"6": "minecraft:custom/parent/blank",
+		"7": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/buenavistastreet/darkturquoise"
   }
 }
