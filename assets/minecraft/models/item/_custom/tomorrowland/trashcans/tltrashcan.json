@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/trashcan",
+  "parent": "minecraft:item/_custom/parents/trashcan",
 	"textures": {
-		"0": "block/white_concrete",
-		"2": "custom/tomorrowland/silver",
-		"3": "custom/tomorrowland/tomorrowlandlogo",
-		"4": "custom/tomorrowland/silver",
-		"5": "custom/tomorrowland/tomorrowlandlogo",
-		"6": "custom/parent/blank",
-		"7": "custom/parent/blank",
-		"particle": "custom/tomorrowland/silver"
+		"0": "minecraft:block/white_concrete",
+		"2": "minecraft:custom/tomorrowland/silver",
+		"3": "minecraft:custom/tomorrowland/tomorrowlandlogo",
+		"4": "minecraft:custom/tomorrowland/silver",
+		"5": "minecraft:custom/tomorrowland/tomorrowlandlogo",
+		"6": "minecraft:custom/parent/blank",
+		"7": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/tomorrowland/silver"
   }
 }
