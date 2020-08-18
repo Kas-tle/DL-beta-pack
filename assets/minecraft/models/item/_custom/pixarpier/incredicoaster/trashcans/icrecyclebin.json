@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/pixarrecyclebin",
+  "parent": "minecraft:item/_custom/parents/pixarrecyclebin",
   "textures": {
-		"0": "block/red_concrete",
-		"2": "custom/pixarpier/incredicoastertrashcanlogo",
-		"3": "block/gray_concrete",
-		"4": "custom/pixarpier/incredicoastertrash",
-		"5": "block/red_concrete",
-		"6": "custom/pixarpier/incredicoastertrash",
-		"7": "custom/parent/blank",
-		"8": "custom/parent/blank",
-		"particle": "block/red_concrete"
+		"0": "minecraft:block/red_concrete",
+		"2": "minecraft:custom/pixarpier/incredicoastertrashcanlogo",
+		"3": "minecraft:block/gray_concrete",
+		"4": "minecraft:custom/pixarpier/incredicoastertrash",
+		"5": "minecraft:block/red_concrete",
+		"6": "minecraft:custom/pixarpier/incredicoastertrash",
+		"7": "minecraft:custom/parent/blank",
+		"8": "minecraft:custom/parent/blank",
+		"particle": "minecraft:block/red_concrete"
   }
 }
