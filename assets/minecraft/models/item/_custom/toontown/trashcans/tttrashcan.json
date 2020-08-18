@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/trashcan",
+  "parent": "minecraft:item/_custom/parents/trashcan",
 	"textures": {
-		"0": "block/green_concrete",
-		"2": "custom/entranceplaza/goawaygreen",
-		"3": "custom/toontown/tttrashcan",
-		"4": "custom/entranceplaza/goawaygreen",
-		"5": "custom/toontown/tttrashcan",
-		"6": "custom/parent/blank",
-		"7": "custom/parent/blank",
-		"particle": "custom/entranceplaza/goawaygreen"
+		"0": "minecraft:block/green_concrete",
+		"2": "minecraft:custom/entranceplaza/goawaygreen",
+		"3": "minecraft:custom/toontown/tttrashcan",
+		"4": "minecraft:custom/entranceplaza/goawaygreen",
+		"5": "minecraft:custom/toontown/tttrashcan",
+		"6": "minecraft:custom/parent/blank",
+		"7": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/entranceplaza/goawaygreen"
   }
 }
