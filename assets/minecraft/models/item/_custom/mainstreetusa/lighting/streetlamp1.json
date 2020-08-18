@@ -1,9 +1,9 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/white_stained_glass",
-		"2": "block/quartz_block_bottom",
-		"3": "block/green_concrete"
+		"1": "minecraft:block/white_stained_glass",
+		"2": "minecraft:block/quartz_block_bottom",
+		"3": "minecraft:block/green_concrete"
 	},
 	"elements": [
 		{
