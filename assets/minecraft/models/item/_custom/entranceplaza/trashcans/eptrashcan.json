@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/trashcan",
+  "parent": "minecraft:item/_custom/parents/trashcan",
 	"textures": {
-		"0": "block/bone_block_side",
-		"2": "block/stripped_acacia_log",
-		"3": "gui/title/mojang",
-		"4": "block/bone_block_side",
-		"5": "gui/title/mojang",
-		"6": "custom/parent/blank",
-		"7": "custom/parent/blank",
-		"particle": "block/bone_block_side"
+		"0": "minecraft:block/bone_block_side",
+		"2": "minecraft:block/stripped_acacia_log",
+		"3": "minecraft:gui/title/disneylandresort",
+		"4": "minecraft:block/bone_block_side",
+		"5": "minecraft:gui/title/disneylandresort",
+		"6": "minecraft:custom/parent/blank",
+		"7": "minecraft:custom/parent/blank",
+		"particle": "minecraft:block/bone_block_side"
   }
 }
