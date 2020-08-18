@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/accessories/items/starwarslamp",
-		"1": "custom/accessories/items/brushedsilver",
-		"2": "block/white_stained_glass",
-		"3": "block/gray_concrete",
-		"4": "block/snow",
-		"5": "block/red_concrete",
-		"6": "block/stripped_birch_log",
-		"particle": "custom/accessories/items/starwarslamp"
+		"0": "minecraft:custom/accessories/items/starwarslamp",
+		"1": "minecraft:custom/accessories/items/brushedsilver",
+		"2": "minecraft:block/white_stained_glass",
+		"3": "minecraft:block/gray_concrete",
+		"4": "minecraft:block/snow",
+		"5": "minecraft:block/red_concrete",
+		"6": "minecraft:block/stripped_birch_log",
+		"particle": "minecraft:custom/accessories/items/starwarslamp"
 	},
 	"elements": [
 		{
