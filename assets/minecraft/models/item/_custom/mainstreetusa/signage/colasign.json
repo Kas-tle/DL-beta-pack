@@ -1,11 +1,11 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "block/bone_block_side",
-		"1": "custom/mainstreetusa/colasign",
-		"2": "block/anvil",
-		"3": "block/green_concrete",
-		"particle": "block/bone_block_side"
+		"0": "minecraft:block/bone_block_side",
+		"1": "minecraft:custom/mainstreetusa/colasign",
+		"2": "minecraft:block/anvil",
+		"3": "minecraft:block/green_concrete",
+		"particle": "minecraft:block/bone_block_side"
 	},
 	"elements": [
 		{
