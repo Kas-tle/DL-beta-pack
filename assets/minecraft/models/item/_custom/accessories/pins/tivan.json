@@ -1,9 +1,9 @@
 {
 	"credit": "Model by Kastle. Kastle#4801 on Discord. If you recieved this model without context, it was probably stolen.",
 	"textures": {
-		"0": "block/yellow_concrete",
-		"1": "block/yellow_terracotta",
-		"particle": "block/yellow_concrete"
+		"0": "minecraft:block/yellow_concrete",
+		"1": "minecraft:block/yellow_terracotta",
+		"particle": "minecraft:block/yellow_concrete"
 	},
 	"elements": [
 		{
