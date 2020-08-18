@@ -1,10 +1,10 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/mainstreetusa/seating/bench",
+  "parent": "minecraft:item/_custom/mainstreetusa/seating/bench",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/black_concrete",
-		"2": "block/stripped_birch_log",
-		"particle": "block/black_concrete"
+		"0": "minecraft:block/black_concrete",
+		"1": "minecraft:block/black_concrete",
+		"2": "minecraft:block/stripped_birch_log",
+		"particle": "minecraft:block/black_concrete"
   }
 }
