@@ -2,8 +2,8 @@
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"ambientocclusion": false,
 	"textures": {
-		"2": "custom/entranceplaza/goawaygreen",
-		"particle": "custom/entranceplaza/goawaygreen"
+		"2": "minecraft:custom/entranceplaza/goawaygreen",
+		"particle": "minecraft:custom/entranceplaza/goawaygreen"
 	},
 	"elements": [
 		{
