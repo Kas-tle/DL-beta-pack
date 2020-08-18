@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/recyclebin",
+  "parent": "minecraft:item/_custom/parents/recyclebin",
 	"textures": {
-		"0": "custom/mainstreetusa/midnightblue",
-		"2": "custom/mainstreetusa/midnightblue",
-		"4": "custom/mainstreetusa/midnightblue",
-		"5": "custom/hollywoodland/hlrecyclelogo",
-		"6": "custom/hollywoodland/hltrashcanlogo",
-		"7": "custom/hollywoodland/hltrashcanlogo",
-		"8": "custom/parent/blank",
-		"9": "custom/parent/blank",
-		"particle": "custom/mainstreetusa/midnightblue"
+		"0": "minecraft:custom/mainstreetusa/midnightblue",
+		"2": "minecraft:custom/mainstreetusa/midnightblue",
+		"4": "minecraft:custom/mainstreetusa/midnightblue",
+		"5": "minecraft:custom/hollywoodland/hlrecyclelogo",
+		"6": "minecraft:custom/hollywoodland/hltrashcanlogo",
+		"7": "minecraft:custom/hollywoodland/hltrashcanlogo",
+		"8": "minecraft:custom/parent/blank",
+		"9": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/mainstreetusa/midnightblue"
   }
 }
