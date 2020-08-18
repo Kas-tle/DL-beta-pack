@@ -1,9 +1,9 @@
 {
-    "parent": "item/generated",
+    "parent": "minecraft:item/generated",
     "textures": {
-        "layer0": "item/snowball"
+        "layer0": "minecraft:item/snowball"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 1},"model": "item/_custom/utility/blank"}
+      {"predicate": {"custom_model_data": 1},"model": "minecraft:item/_custom/utility/blank"}
     ]
 }
