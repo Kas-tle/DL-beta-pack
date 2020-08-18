@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/recyclebin",
+  "parent": "minecraft:item/_custom/parents/recyclebin",
 	"textures": {
-		"0": "block/bone_block_side",
-		"2": "block/stripped_acacia_log",
-		"4": "block/bone_block_side",
-		"5": "custom/tomorrowland/tommowlandrecycle",
-		"6": "custom/entranceplaza/recyclecricket",
-		"7": "custom/entranceplaza/recyclecricket",
-		"8": "custom/parent/blank",
-		"9": "custom/parent/blank",
-		"particle": "block/bone_block_side"
+		"0": "minecraft:block/bone_block_side",
+		"2": "minecraft:block/stripped_acacia_log",
+		"4": "minecraft:block/bone_block_side",
+		"5": "minecraft:custom/tomorrowland/tommowlandrecycle",
+		"6": "minecraft:custom/entranceplaza/recyclecricket",
+		"7": "minecraft:custom/entranceplaza/recyclecricket",
+		"8": "minecraft:custom/parent/blank",
+		"9": "minecraft:custom/parent/blank",
+		"particle": "minecraft:block/bone_block_side"
   }
 }
