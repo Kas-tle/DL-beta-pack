@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/pixarrecyclebin",
+  "parent": "minecraft:item/_custom/parents/pixarrecyclebin",
   "textures": {
-		"0": "block/light_blue_concrete",
-		"2": "custom/pixarpier/tmrecyclelogo",
-		"3": "block/snow",
-		"4": "custom/pixarpier/tmtrashcan",
-		"5": "block/light_blue_concrete",
-		"6": "custom/pixarpier/tmtrashcan",
-		"7": "custom/pixarpier/tmtrashcan",
-		"8": "custom/pixarpier/tmtrashcan",
-		"particle": "block/light_blue_concrete"
+		"0": "minecraft:block/light_blue_concrete",
+		"2": "minecraft:custom/pixarpier/tmrecyclelogo",
+		"3": "minecraft:block/snow",
+		"4": "minecraft:custom/pixarpier/tmtrashcan",
+		"5": "minecraft:block/light_blue_concrete",
+		"6": "minecraft:custom/pixarpier/tmtrashcan",
+		"7": "minecraft:custom/pixarpier/tmtrashcan",
+		"8": "minecraft:custom/pixarpier/tmtrashcan",
+		"particle": "minecraft:block/light_blue_concrete"
   }
 }
