@@ -1,8 +1,8 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "block/grass",
-		"particle": "block/grass"
+		"0": "minecraft:block/grass",
+		"particle": "minecraft:block/grass"
 	},
 	"elements": [
 		{
