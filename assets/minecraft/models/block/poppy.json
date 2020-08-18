@@ -1,8 +1,8 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/flowers/poppy/poppy",
-		"particle": "custom/flowers/poppy/poppy"
+		"0": "minecraft:custom/flowers/poppy/poppy",
+		"particle": "minecraft:custom/flowers/poppy/poppy"
 	},
 	"elements": [
 		{
