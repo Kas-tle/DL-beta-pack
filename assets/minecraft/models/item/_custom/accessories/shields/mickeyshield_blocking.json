@@ -1,6 +1,6 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/accessories/shields/mickeyshield",
+  "parent": "minecraft:item/_custom/accessories/shields/mickeyshield",
 	"display": {
 			"thirdperson_righthand": {
 					"rotation": [ 45, 135, 0 ],
