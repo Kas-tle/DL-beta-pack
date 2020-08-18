@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/trashcan",
+  "parent": "minecraft:item/_custom/parents/trashcan",
   "textures": {
-		"0": "block/light_blue_concrete",
-		"2": "block/snow",
-		"3": "custom/pixarpier/tmtrashcan",
-		"4": "block/light_blue_concrete",
-		"5": "custom/pixarpier/tmtrashcan",
-		"6": "custom/pixarpier/tmtrashcan",
-		"7": "custom/pixarpier/tmtrashcan",
-		"particle": "block/light_blue_concrete"
+		"0": "minecraft:block/light_blue_concrete",
+		"2": "minecraft:block/snow",
+		"3": "minecraft:custom/pixarpier/tmtrashcan",
+		"4": "minecraft:block/light_blue_concrete",
+		"5": "minecraft:custom/pixarpier/tmtrashcan",
+		"6": "minecraft:custom/pixarpier/tmtrashcan",
+		"7": "minecraft:custom/pixarpier/tmtrashcan",
+		"particle": "minecraft:block/light_blue_concrete"
   }
 }
