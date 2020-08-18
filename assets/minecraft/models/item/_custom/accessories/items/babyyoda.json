@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/accessories/items/yodabeige",
-		"1": "custom/accessories/items/yodablack",
-		"2": "custom/accessories/items/yodabrown",
-		"3": "custom/accessories/items/yodagreen",
-		"4": "custom/accessories/items/yodapink",
-		"5": "custom/accessories/items/yodawhite",
-		"6": "custom/accessories/items/yodadarkgreen",
-		"particle": "custom/accessories/items/yodabeige"
+		"0": "minecraft:custom/accessories/items/yodabeige",
+		"1": "minecraft:custom/accessories/items/yodablack",
+		"2": "minecraft:custom/accessories/items/yodabrown",
+		"3": "minecraft:custom/accessories/items/yodagreen",
+		"4": "minecraft:custom/accessories/items/yodapink",
+		"5": "minecraft:custom/accessories/items/yodawhite",
+		"6": "minecraft:custom/accessories/items/yodadarkgreen",
+		"particle": "minecraft:custom/accessories/items/yodabeige"
 	},
 	"elements": [
 		{
