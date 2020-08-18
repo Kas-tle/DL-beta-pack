@@ -1,13 +1,13 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/black_concrete",
-		"4": "block/gray_concrete",
-		"5": "block/anvil",
-		"6": "custom/accessories/hats/spiralrose",
-		"7": "custom/tomorrowland/silver",
-		"9": "block/snow",
-		"particle": "block/black_concrete"
+		"1": "minecraft:block/black_concrete",
+		"4": "minecraft:block/gray_concrete",
+		"5": "minecraft:block/anvil",
+		"6": "minecraft:custom/accessories/hats/spiralrose",
+		"7": "minecraft:custom/tomorrowland/silver",
+		"9": "minecraft:block/snow",
+		"particle": "minecraft:block/black_concrete"
 	},
 	"elements": [
 		{
