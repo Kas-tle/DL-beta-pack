@@ -1,10 +1,10 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/crittercountry/ccrecyclelogo",
-		"1": "custom/crittercountry/cctrashcan",
-		"2": "custom/crittercountry/ccrecyclelabel",
-		"particle": "custom/crittercountry/ccrecyclelogo"
+		"0": "minecraft:custom/crittercountry/ccrecyclelogo",
+		"1": "minecraft:custom/crittercountry/cctrashcan",
+		"2": "minecraft:custom/crittercountry/ccrecyclelabel",
+		"particle": "minecraft:custom/crittercountry/ccrecyclelogo"
 	},
 	"elements": [
 		{
