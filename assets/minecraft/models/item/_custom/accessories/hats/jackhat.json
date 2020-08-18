@@ -1,14 +1,14 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/black_concrete",
-		"2": "custom/accessories/hats/jackhat2",
-		"3": "custom/accessories/hats/jackhat1",
-		"4": "block/gray_concrete",
-		"5": "custom/accessories/hats/jackhat5",
-		"6": "custom/accessories/hats/jackhat4",
-		"9": "block/snow",
-		"particle": "custom/accessories/hats/jackhat2"
+		"1": "minecraft:block/black_concrete",
+		"2": "minecraft:custom/accessories/hats/jackhat2",
+		"3": "minecraft:custom/accessories/hats/jackhat1",
+		"4": "minecraft:block/gray_concrete",
+		"5": "minecraft:custom/accessories/hats/jackhat5",
+		"6": "minecraft:custom/accessories/hats/jackhat4",
+		"9": "minecraft:block/snow",
+		"particle": "minecraft:custom/accessories/hats/jackhat2"
 	},
 	"elements": [
 		{
