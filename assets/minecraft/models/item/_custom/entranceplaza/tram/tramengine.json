@@ -1,21 +1,21 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "block/snow",
-		"1": "block/red_concrete",
-		"2": "block/coal_block",
-		"3": "custom/entranceplaza/tramlight",
-		"4": "block/light_gray_stained_glass",
-		"5": "block/smooth_stone",
-		"6": "block/gray_concrete",
-		"7": "custom/tomorrowland/silver",
-		"8": "block/black_concrete",
-		"9": "block/white_stained_glass",
-		"10": "custom/entranceplaza/tramnumbers",
-		"11": "custom/entranceplaza/tramletters",
-		"12": "block/ice",
-		"13": "custom/entranceplaza/cnglogo",
-		"particle": "block/snow"
+		"0": "minecraft:block/snow",
+		"1": "minecraft:block/red_concrete",
+		"2": "minecraft:block/coal_block",
+		"3": "minecraft:custom/entranceplaza/tramlight",
+		"4": "minecraft:block/light_gray_stained_glass",
+		"5": "minecraft:block/smooth_stone",
+		"6": "minecraft:block/gray_concrete",
+		"7": "minecraft:custom/tomorrowland/silver",
+		"8": "minecraft:block/black_concrete",
+		"9": "minecraft:block/white_stained_glass",
+		"10": "minecraft:custom/entranceplaza/tramnumbers",
+		"11": "minecraft:custom/entranceplaza/tramletters",
+		"12": "minecraft:block/ice",
+		"13": "minecraft:custom/entranceplaza/cnglogo",
+		"particle": "minecraft:block/snow"
 	},
 	"elements": [
 		{
