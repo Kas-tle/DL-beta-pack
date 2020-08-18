@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/recyclebin",
+  "parent": "minecraft:item/_custom/parents/recyclebin",
 	"textures": {
-		"0": "custom/entranceplaza/goawaygreen",
-		"2": "custom/entranceplaza/goawaygreen",
-		"4": "custom/entranceplaza/goawaygreen",
-		"5": "custom/downtowndisney/ddrecyclelabel",
-		"6": "custom/downtowndisney/ddrecyclebin",
-		"7": "custom/downtowndisney/ddrecyclebin",
-		"8": "custom/parent/blank",
-		"9": "custom/parent/blank",
-		"particle": "custom/entranceplaza/goawaygreen"
+		"0": "minecraft:custom/entranceplaza/goawaygreen",
+		"2": "minecraft:custom/entranceplaza/goawaygreen",
+		"4": "minecraft:custom/entranceplaza/goawaygreen",
+		"5": "minecraft:custom/downtowndisney/ddrecyclelabel",
+		"6": "minecraft:custom/downtowndisney/ddrecyclebin",
+		"7": "minecraft:custom/downtowndisney/ddrecyclebin",
+		"8": "minecraft:custom/parent/blank",
+		"9": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/entranceplaza/goawaygreen"
   }
 }
