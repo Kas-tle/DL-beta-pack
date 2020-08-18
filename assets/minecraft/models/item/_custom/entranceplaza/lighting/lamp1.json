@@ -1,12 +1,12 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/gold_block",
-		"2": "gui/title/mojang",
-		"3": "block/snow",
-		"4": "custom/entranceplaza/goawaygreen",
-		"5": "block/blue_concrete",
-		"particle": "block/gold_block"
+		"1": "minecraft:block/gold_block",
+		"2": "minecraft:gui/title/disneylandresort",
+		"3": "minecraft:block/snow",
+		"4": "minecraft:custom/entranceplaza/goawaygreen",
+		"5": "minecraft:block/blue_concrete",
+		"particle": "minecraft:block/gold_block"
 	},
 	"elements": [
 		{
