@@ -1,13 +1,13 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/light_blue_concrete",
-		"2": "block/blue_concrete",
-		"3": "block/black_concrete",
-		"4": "block/snow",
-		"5": "block/cyan_concrete",
-		"6": "block/pink_concrete",
-		"particle": "block/pink_concrete"
+		"1": "minecraft:block/light_blue_concrete",
+		"2": "minecraft:block/blue_concrete",
+		"3": "minecraft:block/black_concrete",
+		"4": "minecraft:block/snow",
+		"5": "minecraft:block/cyan_concrete",
+		"6": "minecraft:block/pink_concrete",
+		"particle": "minecraft:block/pink_concrete"
 	},
 	"elements": [
 		{
