@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "item/_custom/parents/recyclebin",
+  "parent": "minecraft:item/_custom/parents/recyclebin",
 	"textures": {
-		"0": "custom/hollywoodland/mediumbrown",
-		"2": "custom/hollywoodland/mediumbrown",
-		"4": "custom/hollywoodland/mediumbrown",
-		"5": "custom/hollywoodland/mbrecyclelogo",
-		"6": "custom/hollywoodland/mbtrashcan",
-		"7": "custom/hollywoodland/mbtrashcan",
-		"8": "custom/parent/blank",
-		"9": "custom/parent/blank",
-		"particle": "custom/hollywoodland/mediumbrown"
+		"0": "minecraft:custom/hollywoodland/mediumbrown",
+		"2": "minecraft:custom/hollywoodland/mediumbrown",
+		"4": "minecraft:custom/hollywoodland/mediumbrown",
+		"5": "minecraft:custom/hollywoodland/mbrecyclelogo",
+		"6": "minecraft:custom/hollywoodland/mbtrashcan",
+		"7": "minecraft:custom/hollywoodland/mbtrashcan",
+		"8": "minecraft:custom/parent/blank",
+		"9": "minecraft:custom/parent/blank",
+		"particle": "minecraft:custom/hollywoodland/mediumbrown"
   }
 }
