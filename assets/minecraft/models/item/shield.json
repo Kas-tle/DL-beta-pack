@@ -39,9 +39,9 @@
 				"predicate": {
 						"blocking": 1
 				},
-				"model": "item/shield_blocking"
+				"model": "minecraft:item/shield_blocking"
 		},
-    {"predicate": {"custom_model_data": 1},"model": "item/_custom/accessories/shields/mickeyshield"},
-		{ "predicate": {"custom_model_data": 1, "blocking": 1}, "model": "item/_custom/accessories/shields/mickeyshield_blocking" }
+    {"predicate": {"custom_model_data": 1},"model": "minecraft:item/_custom/accessories/shields/mickeyshield"},
+		{ "predicate": {"custom_model_data": 1, "blocking": 1}, "model": "minecraft:item/_custom/accessories/shields/mickeyshield_blocking" }
 	]
 }
