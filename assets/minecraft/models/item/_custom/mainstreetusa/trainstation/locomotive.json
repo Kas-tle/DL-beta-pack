@@ -1,17 +1,17 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "block/black_concrete",
-		"1": "block/red_concrete",
-		"2": "block/anvil",
-		"3": "custom/mainstreetusa/gold",
-		"4": "custom/entranceplaza/goawaygreen",
-		"5": "custom/mainstreetusa/midnightblue",
-		"6": "block/black_concrete_powder",
-		"7": "block/light_gray_stained_glass",
-		"8": "custom/mainstreetusa/trainlettering",
-		"9": "custom/mainstreetusa/trainnumber",
-		"particle": "block/black_concrete"
+		"0": "minecraft:block/black_concrete",
+		"1": "minecraft:block/red_concrete",
+		"2": "minecraft:block/anvil",
+		"3": "minecraft:custom/mainstreetusa/gold",
+		"4": "minecraft:custom/entranceplaza/goawaygreen",
+		"5": "minecraft:custom/mainstreetusa/midnightblue",
+		"6": "minecraft:block/black_concrete_powder",
+		"7": "minecraft:block/light_gray_stained_glass",
+		"8": "minecraft:custom/mainstreetusa/trainlettering",
+		"9": "minecraft:custom/mainstreetusa/trainnumber",
+		"particle": "minecraft:block/black_concrete"
 	},
 	"elements": [
 		{
