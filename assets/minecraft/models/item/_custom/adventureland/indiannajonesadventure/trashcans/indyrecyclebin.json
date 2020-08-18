@@ -1,9 +1,9 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/adventureland/indyrecycle",
-		"1": "custom/adventureland/indytrashside",
-		"particle": "custom/adventureland/indyrecycle"
+		"0": "minecraft:custom/adventureland/indyrecycle",
+		"1": "minecraft:custom/adventureland/indytrashside",
+		"particle": "minecraft:custom/adventureland/indyrecycle"
 	},
 	"elements": [
 		{
