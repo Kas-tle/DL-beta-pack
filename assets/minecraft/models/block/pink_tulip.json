@@ -1,8 +1,8 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
-  "parent": "block/poppy",
+  "parent": "minecraft:block/poppy",
 	"textures": {
-		"0": "custom/flowers/tulips/pinktulip",
-		"particle": "custom/flowers/tulips/pinktulip"
+		"0": "minecraft:custom/flowers/tulips/pinktulip",
+		"particle": "minecraft:custom/flowers/tulips/pinktulip"
   }
 }
