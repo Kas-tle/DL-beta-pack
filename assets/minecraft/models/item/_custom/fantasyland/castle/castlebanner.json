@@ -1,12 +1,12 @@
 {
 	"credit": "Made by _Kastle with Blockbench. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/fantasyland/castlebanner",
-		"1": "custom/mainstreetusa/gold",
-		"2": "block/black_concrete",
-		"3": "block/white_stained_glass",
-		"4": "block/fire_0",
-		"particle": "custom/fantasyland/castlebanner"
+		"0": "minecraft:custom/fantasyland/castlebanner",
+		"1": "minecraft:custom/mainstreetusa/gold",
+		"2": "minecraft:block/black_concrete",
+		"3": "minecraft:block/white_stained_glass",
+		"4": "minecraft:block/fire_0",
+		"particle": "minecraft:custom/fantasyland/castlebanner"
 	},
 	"elements": [
 		{
