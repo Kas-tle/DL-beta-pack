@@ -1,15 +1,15 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/parent/flaps",
-		"2": "custom/parent/hole",
-		"3": "custom/parent/posts",
-		"4": "custom/parent/frontwall1",
-		"5": "custom/parent/walls",
-		"6": "custom/parent/frontwall2",
-		"7": "custom/parent/sidewall1",
-		"8": "custom/parent/sidewall2",
-		"particle": "custom/parent/flaps"
+		"0": "minecraft:custom/parent/flaps",
+		"2": "minecraft:custom/parent/hole",
+		"3": "minecraft:custom/parent/posts",
+		"4": "minecraft:custom/parent/frontwall1",
+		"5": "minecraft:custom/parent/walls",
+		"6": "minecraft:custom/parent/frontwall2",
+		"7": "minecraft:custom/parent/sidewall1",
+		"8": "minecraft:custom/parent/sidewall2",
+		"particle": "minecraft:custom/parent/flaps"
 	},
 	"elements": [
 		{
