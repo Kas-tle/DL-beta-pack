@@ -1,8 +1,8 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"1": "block/black_concrete",
-		"2": "custom/accessories/hats/oswald"
+		"1": "minecraft:block/black_concrete",
+		"2": "minecraft:custom/accessories/hats/oswald"
 	},
 	"elements": [
 		{
