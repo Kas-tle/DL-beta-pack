@@ -1,9 +1,9 @@
 {
 	"credit": "Made by _Kastle. Message Kastle#4801 on Discord for inquiries. If you recieved this model from someone other than myself without context, it was probably stolen.",
 	"textures": {
-		"0": "custom/accessories/hats/mickeyseal",
-		"1": "block/black_concrete",
-		"particle": "custom/accessories/hats/mickeyseal"
+		"0": "minecraft:custom/accessories/hats/mickeyseal",
+		"1": "minecraft:block/black_concrete",
+		"particle": "minecraft:custom/accessories/hats/mickeyseal"
 	},
 	"elements": [
 		{
